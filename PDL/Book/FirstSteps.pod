@@ -20,9 +20,9 @@ long time teaching you the very basics of a topic, in a "Janet and John"
 style.  While you wish to learn, you are anxious to see something a bit
 more exciting and interesting to see what the language can do.
 
-Fortunately our task in this book on PDL is made very much easier by the
+Fortunately, our task in this book on PDL is made very much easier by the
 high-level of the language. We can take a tour through PDL, looking at
-the advanced features it offers without getting involved in complexity.
+the advanced features it offers, without getting involved in complexity.
 
 The aim of this section is to cover a breadth of PDL features rather
 than any in depth, to give the reader a flavour of what he or she can do
